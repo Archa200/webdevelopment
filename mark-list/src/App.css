@@ -1,0 +1,19 @@
+.headerStyle{
+  text-align: end;
+  padding-top: 20px;
+  font-size: larger;
+  font-weight: bold;
+}
+.headerbutton{
+  background-color: #b8336a;
+  margin: 0px 10px;
+  border-radius: 5px;
+  font-size: 15px;
+  /* font-weight: bold; */
+  color: white;
+  border: none;
+  padding: 5px 10px;
+}
+label{
+  padding-left: 20px;
+}
